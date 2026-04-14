@@ -1,0 +1,19 @@
+GOOGLE_CREDENTIALS_FILE=credentials.json
+
+FIRST_SURVEY_SHEET_ID=your_first_survey_sheet_id
+FIRST_SURVEY_WORKSHEET_NAME=설문지 응답 시트1
+
+SECOND_SURVEY_SHEET_ID=your_second_survey_sheet_id
+SECOND_SURVEY_WORKSHEET_NAME=설문지 응답 시트2
+
+USER_INFO_FILE=data/user_info.xlsx
+NEW_USER_FILE=data/new_user.xlsx
+DELETE_USER_FILE=data/delete_user.xlsx
+UNINTEG_USER_FILE=data/uninteg_user.xlsx
+
+SECOND_SURVEY_USER_INFO_FILE=data/user_info_second_survey.xlsx
+QUESTION_OUTPUT_FILE=data/user_questions.xlsx
+PROPOSAL_OUTPUT_FILE=data/user_proposals.xlsx
+
+KAKAO_CONTACT_LIST_FILE=data/kakao_contact_list.xlsx
+MATCHING_OUTPUT_DIR=data/matching_output
